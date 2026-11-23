@@ -1,4 +1,4 @@
-# Hi, I'm [Phan Raksmey] 👋
+# Hi, I'm Phan Raksmey 👋
 
 I'm a beginner programmer from Phnom Penh, Cambodia 🇰🇭, learning C# and
 looking for a remote internship to build real-world experience.
@@ -16,7 +16,7 @@ looking for a remote internship to build real-world experience.
 - Contribute to open source projects
 
 ## 🗣️ Languages
-Khmer (native) · English ([Good])
+Khmer (native) · English (Good])
 
 ## 📫 Contact
-[p.reaksmey04@gmail.com]
+p.reaksmey04@gmail.com
