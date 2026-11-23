@@ -16,7 +16,7 @@ looking for a remote internship to build real-world experience.
 - Contribute to open source projects
 
 ## 🗣️ Languages
-Khmer (native) · English (Good])
+Khmer (native) · English (Good)
 
 ## 📫 Contact
 p.reaksmey04@gmail.com
