@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm [Phan Raksmey] 👋
 
-<!--
-**fgrea04-cell/fgrea04-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer from Phnom Penh, Cambodia 🇰🇭, learning C# and
+looking for a remote internship to build real-world experience.
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning
+- C# and .NET fundamentals
+- Git and GitHub
+- Making my first open source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My projects
+- [programming-practice](https://github.com/fgrea04-cell/programming-practice): my C# practice exercises
+
+## 🎯 Goals
+- Join a remote internship or training program
+- Contribute to open source projects
+
+## 🗣️ Languages
+Khmer (native) · English ([Good])
+
+## 📫 Contact
+[p.reaksmey04@gmail.com]
